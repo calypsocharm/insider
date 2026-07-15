@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Funnel Suite — build &amp; ship a funnel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Cinzel:wght@600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="app.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brand-block">
+    <span class="logo-dot"></span>
+    <span class="logo-name">Funnel Suite</span>
+  </div>
+
+  <div class="project-switch">
+    <label class="sr-only" for="project-select">Project</label>
+    <select id="project-select" title="Project"></select>
+    <button class="btn ghost" id="templates-btn" type="button" title="Start from a template">Templates</button><button class="btn ghost" id="new-project" type="button" title="New funnel">+ New</button>
+    <button class="btn ghost" id="dup-project" type="button" title="Duplicate">Duplicate</button>
+    <button class="btn ghost danger" id="del-project" type="button" title="Delete">Delete</button>
+  </div>
+
+  <div class="topbar-right">
+    <span id="save-status" class="save-status">Saved</span>
+    <div class="device-toggle" role="group" aria-label="Preview width">
+      <button class="seg active" data-device="desktop" type="button" title="Desktop">Desktop</button>
+      <button class="seg" data-device="mobile" type="button" title="Mobile">Mobile</button>
+    </div>
+    <button class="btn primary" id="export-btn" type="button">Export funnel</button>
+  </div>
+</header>
+
+<main class="workspace">
+  <aside class="editor" id="editor" aria-label="Funnel editor">
+    <nav class="tabs" id="tabs" role="tablist"></nav>
+    <div class="panels" id="panels"></div>
+  </aside>
+
+  <section class="preview-col" aria-label="Live preview">
+    <div class="preview-bar">
+      <span class="preview-url" id="preview-url">funnel.html</span>
+      <button class="btn ghost sm" id="refresh-preview" type="button" title="Refresh preview">Refresh</button>
+      <button class="btn ghost sm" id="open-preview" type="button" title="Open preview in new tab">Open</button>
+    </div>
+    <div class="preview-stage" id="preview-stage">
+      <iframe id="preview" class="desktop" title="Funnel preview" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe>
+    </div>
+  </section>
+</main>
+
+<input type="file" id="file-input" hidden accept="image/*" />
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<div class="suite-modal" id="templates-modal" hidden>
+  <div class="suite-modal-card">
+    <button class="sm-close" id="tpl-close" type="button" aria-label="Close">✕</button>
+    <h2>Start from a template</h2>
+    <p>Pick a starting point — you can edit everything after. This creates a new project.</p>
+    <div class="tpl-grid" id="tpl-grid"></div>
+  </div>
+  <div class="sm-scrim" id="tpl-scrim"></div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

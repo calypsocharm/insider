@@ -1,0 +1,329 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Calypso Star: Tarot of the Sea — Get Your Free Ocean Reading</title>
+<meta name="description" content="A dark-fantasy oceanic tarot channeled from the deep. Vote on the deck as it is made and join the Insider Tide for early access, members-only pricing, and polls." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800&family=Nunito:wght@400;500;700;800;900&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="funnel.css" />
+    <link rel="icon" href="assets/card-back-ornate.jpg" />
+    <meta property="og:title" content="Calypso Star: Tarot of the Sea — Free Ocean Reading" />
+    <meta property="og:description" content="A dark-fantasy oceanic tarot channeled from the deep. Draw your free 3-card reading and join the First Tide." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/campaign-calypso-centerpiece.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Calypso Star: Tarot of the Sea — Free Ocean Reading" />
+    <meta name="twitter:description" content="Vote on the deck as it is made. Join the Insider Tide for early access." />
+    <meta name="twitter:image" content="assets/campaign-calypso-centerpiece.jpg" />
+    <meta name="theme-color" content="#0a1b2a" />
+</head>
+<body>
+<canvas class="sea-canvas" aria-hidden="true"></canvas>
+
+<header class="micro-header" id="top">
+  <a class="brand" href="#top">
+    <svg class="brand-sigil" viewBox="0 0 42 42" aria-hidden="true">
+      <circle cx="21" cy="21" r="18" fill="none" stroke="rgba(243,191,85,.55)" stroke-width="1.5"/>
+      <path d="M21 21 m-7 0 a7 7 0 1 0 14 0 a17 17 0 1 0 -34 0 a29 29 0 1 0 58 0" fill="none" stroke="url(#g)" stroke-width="2.6" stroke-linecap="round"/>
+      <circle cx="21" cy="21" r="3" fill="#f3bf55"/>
+      <defs><linearGradient id="g" x1="6" y1="6" x2="36" y2="36"><stop stop-color="#b9f2df"/><stop offset=".5" stop-color="#f3bf55"/><stop offset="1" stop-color="#f47c64"/></linearGradient></defs>
+    </svg>
+    Calypso Star
+  </a>
+  <nav class="micro-nav" aria-label="Funnel navigation">
+    <a href="#perks">Perks</a>
+    <a href="#reading">Free reading</a>
+    <a href="#deck">The deck</a>
+    
+    <a href="#faq">FAQ</a>
+    <button class="ghost-cta" type="button" data-open-modal>Join the Insider Tide</button>
+  </nav>
+  <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</header>
+
+<main>
+  <!-- HERO -->
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero-bg" style="background-image:url('assets/campaign-calypso-centerpiece.jpg')"></div>
+    <div class="hero-veil"></div>
+    <div class="hero-inner reveal">
+      <p class="eyebrow">Tarot of the Sea · 78 cards · linen-finish</p>
+      <h1 id="hero-title">Calypso Star</h1>
+      <p class="hero-sub">A dark-fantasy oceanic tarot, channeled from the deep. The old archetypes retold in tides, reefs, currents, and shore.</p>
+      <div class="hero-cta">
+        <button class="primary-cta" type="button" data-open-modal>
+          <svg viewBox="0 0 24 24" class="ico" aria-hidden="true"><path d="M2 12c3-5 7-7 10-7s7 2 10 7c-3 5-7 7-10 7s-7-2-10-7z" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="12" r="3" fill="currentColor"/></svg>
+          Help shape the deck
+        </button>
+        <a class="secondary-cta" href="#deck">See the deck</a>
+      </div>
+      <p class="trust-line"><span class="dot">●</span> Joined by 2,400+ deep-water readers · Free reading, no card required</p>
+    </div>
+    <a class="scroll-cue" href="#perks" aria-label="Continue"><span></span></a>
+  </section>
+
+  <!-- SELLING PERKS -->
+  <section class="perks" id="perks" aria-labelledby="perks-title">
+    <div class="section-head reveal">
+      <p class="eyebrow">Why join the Insider Tide</p>
+      <h2 id="perks-title">Four reasons to wade in now.</h2>
+    </div>
+    <ul class="perks-grid">
+      <li class="perk reveal">
+        <span class="perk-ico">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12h4l2 6 4-14 2 8h6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </span>
+        <h3>Vote on the deck</h3>
+        <p>Help choose card art, meanings, and more as the deck is made.</p>
+      </li>
+      <li class="perk reveal">
+        <span class="perk-ico">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l2.4 5 5.6.8-4 3.9.9 5.5L12 14.8 7.1 17.2 8 11.7 4 7.8 9.6 7z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+        </span>
+        <h3>Members-only pricing</h3>
+        <p>First Tide subscribers lock the launch deck at early-bird rates before the public Kickstarter opens.</p>
+      </li>
+      <li class="perk reveal">
+        <span class="perk-ico">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v14H4z" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M4 9h16M9 5v14" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+        </span>
+        <h3>Behind-the-tides letters</h3>
+        <p>Field notes from the studio: the art process, the card lore, and how each archetypes surfaces from the deep.</p>
+      </li>
+      <li class="perk reveal">
+        <span class="perk-ico">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l5 5v13H6z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M14 3v6h6" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+        </span>
+        <h3>The First Tide sample</h3>
+        <p>A free downloadable sample card and mini-guidebook excerpt, yours the moment you confirm your email.</p>
+      </li>
+    </ul>
+  </section>
+
+  <!-- LEAD MAGNET: GATED READING -->
+      <section class="reading" id="draw" aria-labelledby="draw-title">
+    <div class="section-head reveal">
+      <p class="eyebrow">Try the deck</p>
+      <h2 id="draw-title">Draw three cards from the deep.</h2>
+      <p class="section-lede">An instant pull from the Tarot of the Sea — no email, no waiting. Tap the deck and let three cards surface with their meaning.</p>
+    </div>
+
+    <div class="reading-stage reveal" id="reading-stage">
+      <article class="r-card" data-pos="0" style="--lift:-6px">
+        <button class="r-card-btn" type="button" aria-label="Draw card 1">
+          <span class="r-inner">
+            <img class="r-face r-back" src="assets/card-back-ornate.jpg" alt="" />
+            <img class="r-face r-front" data-front alt="" />
+          </span>
+        </button>
+        <p class="r-label">Card 1</p>
+        <h3 class="r-name" data-name>—</h3>
+        <p class="r-msg" data-msg></p>
+      </article>
+      <article class="r-card" data-pos="1" style="--lift:-26px">
+        <button class="r-card-btn" type="button" aria-label="Draw card 2">
+          <span class="r-inner">
+            <img class="r-face r-back" src="assets/card-back-ornate.jpg" alt="" />
+            <img class="r-face r-front" data-front alt="" />
+          </span>
+        </button>
+        <p class="r-label">Card 2</p>
+        <h3 class="r-name" data-name>—</h3>
+        <p class="r-msg" data-msg></p>
+      </article>
+      <article class="r-card" data-pos="2" style="--lift:-6px">
+        <button class="r-card-btn" type="button" aria-label="Draw card 3">
+          <span class="r-inner">
+            <img class="r-face r-back" src="assets/card-back-ornate.jpg" alt="" />
+            <img class="r-face r-front" data-front alt="" />
+          </span>
+        </button>
+        <p class="r-label">Card 3</p>
+        <h3 class="r-name" data-name>—</h3>
+        <p class="r-msg" data-msg></p>
+      </article>
+    </div>
+
+    <div class="reading-cta reveal" id="reading-cta">
+      <button class="primary-cta" type="button" id="draw-cards">Draw three cards</button>
+      <p class="reading-note">Free, instant, and just for fun. Love it? <a href="#vote">Join the Insider Tide</a> to help shape the deck.</p>
+    </div>
+  </section>
+
+  <section class="insider" id="vote" aria-labelledby="vote-title">
+    <div class="section-head reveal">
+      <p class="eyebrow">Become an insider</p>
+      <h2 id="vote-title">Help shape the deck as it is made.</h2>
+      <p class="section-lede">Join the Insider Tide and vote on card art, meanings, and more. Pick your favorite card back below to cast your first vote — ten seconds, and you get early access and members-only pricing when the deck launches.</p>
+    </div>
+
+    <div class="poll reveal" id="poll">
+      <p class="poll-q">First vote — which card back do you prefer?</p>
+      <div class="poll-options">
+        <button class="poll-opt" data-vote="A - Ornate" type="button" aria-label="Vote for card back A">
+          <img src="assets/card-back-ornate.jpg" alt="Card back A, ornate" />
+          <span class="poll-label">A — Ornate</span>
+        </button>
+        <button class="poll-opt" data-vote="B - Plain" type="button" aria-label="Vote for card back B">
+          <img src="assets/card-back.jpg" alt="Card back B, plain" />
+          <span class="poll-label">B — Plain</span>
+        </button>
+      </div>
+      <p class="poll-note">We will email you the winner and the next poll. No spam, ever.</p>
+    </div>
+  </section>
+
+  <!-- DECK SHOWCASE -->
+  <section class="deck" id="deck" aria-labelledby="deck-title">
+    <div class="section-head reveal">
+      <p class="eyebrow">The deck</p>
+      <h2 id="deck-title">Twenty-one tides are already awake.</h2>
+      <p class="section-lede">Hand-illustrated in the locked oceanic style — abyss ground, teal and coral glow, wave and curl motifs, the energy of an old field-guide of the deep.</p>
+    </div>
+    <div class="deck-grid" id="deck-grid" aria-label="Completed card art"></div>
+  </section>
+
+  <!-- SOCIAL PROOF -->
+  <section class="proof" aria-labelledby="proof-title">
+    <div class="section-head reveal">
+      <p class="eyebrow">From the current</p>
+      <h2 id="proof-title">Readers already in the deep.</h2>
+    </div>
+    <div class="proof-stats reveal">
+      <div><b>2,400+</b><span>First Tide readers</span></div>
+      <div><b>4.9</b><span>avg deck rating</span></div>
+      <div><b>78</b><span>cards, fully illustrated</span></div>
+      <div><b>$40K</b><span>internal launch target</span></div>
+    </div>
+    <div class="quotes">
+      <figure class="quote reveal">
+        <blockquote>“The cards read like the sea actually answered me. I have never had a deck feel this personal.”</blockquote>
+        <figcaption><span class="avatar">M</span>Marisol R. · Brooklyn, NY</figcaption>
+      </figure>
+      <figure class="quote reveal">
+        <blockquote>“I came for the art and stayed for the readings. The Pearl Cage alone was worth the email.”</blockquote>
+        <figcaption><span class="avatar">D</span>Devon K. · Portland, OR</figcaption>
+      </figure>
+      <figure class="quote reveal">
+        <blockquote>“Dark, gorgeous, and weirdly accurate. My free reading named the exact thing I'd been avoiding.”</blockquote>
+        <figcaption><span class="avatar">P</span>Priya N. · Austin, TX</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- TIERS -->
+  <!-- FAQ -->
+  <section class="faq" id="faq" aria-labelledby="faq-title">
+    <div class="section-head reveal">
+      <p class="eyebrow">Before you dive</p>
+      <h2 id="faq-title">Questions from the shore.</h2>
+    </div>
+    <div class="faq-list">
+      <details class="faq-item reveal"><summary>Is the free reading really free?</summary><p>Yes. No card, no trial. You give an email so we can send your reading and the sample card, and that's it.</p></details>
+      <details class="faq-item reveal"><summary>What's in the First Tide sample?</summary><p>A high-res sample card from the deck plus a mini-guidebook excerpt showing the art, the upright/reversed meanings, and the “ask” prompt.</p></details>
+      <details class="faq-item reveal"><summary>When does the deck launch?</summary><p>The Kickstarter opens this season. First Tide readers get the launch date, early-bird pricing, and first access 48 hours before the public.</p></details>
+      <details class="faq-item reveal"><summary>Do I pay anything now?</summary><p>No. Joining the Insider Tide is completely free. You only pledge on Kickstarter when it launches, and only if you choose to.</p></details>
+      <details class="faq-item reveal"><summary>Can I unsubscribe?</summary><p>Anytime, one click. We send quiet transmissions — not a firehose.</p></details>
+    </div>
+  </section>
+
+  <!-- FINAL URGENCY CTA -->
+  <section class="final" id="claim" aria-labelledby="final-title">
+    <div class="final-bg" style="background-image:url('assets/stretch-goals-world.png')"></div>
+    <div class="final-veil"></div>
+    <div class="final-inner reveal">
+      <p class="eyebrow">The first tide is forming</p>
+      <h2 id="final-title">Claim your spot before the deck surfaces.</h2>
+      <p class="final-lede">Vote on the deck, get early access, and lock members-only pricing at launch — all free, the moment you join. The Kickstarter is close.</p>
+      <div class="countdown" id="countdown" aria-label="Time until launch">
+        <div><b data-cd="d">--</b><span>days</span></div>
+        <div><b data-cd="h">--</b><span>hrs</span></div>
+        <div><b data-cd="m">--</b><span>min</span></div>
+        <div><b data-cd="s">--</b><span>sec</span></div>
+      </div>
+      <form class="inline-capture" id="inline-capture" novalidate>
+      <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" placeholder="Leave empty" />
+        <label class="sr-only" for="inline-email">Email address</label>
+        <input id="inline-email" name="email" type="email" inputmode="email" placeholder="you@deepwater.com" autocomplete="email" required />
+        <button class="primary-cta" type="submit">Join the Insider Tide</button>
+      </form>
+      <p class="final-note" id="inline-note">Free · No spam · Unsubscribe anytime</p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span class="brand small">
+      <svg class="brand-sigil" viewBox="0 0 42 42" aria-hidden="true"><circle cx="21" cy="21" r="18" fill="none" stroke="rgba(243,191,85,.4)" stroke-width="1.5"/><circle cx="21" cy="21" r="3" fill="#f3bf55"/></svg>
+      Calypso Star
+    </span>
+    <nav aria-label="Footer">
+      <a href="https://shop.calypsostar.com">Shop</a>
+      <a href="https://shop.calypsostar.com/fine-art/index.html">Fine Art</a>
+      <a href="#faq">FAQ</a>
+      <a href="mailto:hello@calypsostar.com">Contact</a>
+    </nav>
+    <p class="copy">© 2026 Calypso Star. All rights reserved.</p>
+  </div>
+</footer>
+
+<!-- MULTI-STEP OPT-IN MODAL -->
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+  <div class="modal-card" role="document">
+    <button class="modal-close" type="button" aria-label="Close" data-close-modal>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+
+    <div class="modal-deck" aria-hidden="true">
+      <img src="assets/card-back-ornate.jpg" alt="" class="md md1"/>
+      <img src="assets/card-back-ornate.jpg" alt="" class="md md2"/>
+      <img src="assets/card-back-ornate.jpg" alt="" class="md md3"/>
+    </div>
+
+    <div class="modal-progress" aria-hidden="true"><span data-step-dot="0"></span><span data-step-dot="1"></span></div>
+
+    <div class="modal-step" data-step="0">
+      <p class="eyebrow" id="modal-eyebrow">Join the Insider Tide</p>
+      <h2 id="modal-title" class="modal-title">Help shape the deck.</h2>
+      <p class="modal-sub" id="modal-sub">Join to vote on card art, meanings, and more — and get early access and members-only pricing when it launches.</p>
+      <form class="modal-form" data-modal-form="0" novalidate>
+        <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" placeholder="Leave empty" />
+        <label class="field">
+          <span class="field-label">Your first name <em>(optional)</em></span>
+          <input type="text" name="name" autocomplete="given-name" placeholder="Calypso" />
+        </label>
+        <label class="field">
+          <span class="field-label">Email address</span>
+          <input type="email" name="email" inputmode="email" autocomplete="email" placeholder="you@deepwater.com" required />
+        </label>
+        <label class="consent">
+          <input type="checkbox" name="consent" required />
+          <span>Add me to the Insider Tide for polls, early access, and launch news. Unsubscribe anytime. See our <a href="privacy.html" target="_blank" rel="noreferrer">privacy policy</a>.</span>
+        </label>
+        <button class="primary-cta full" type="submit" id="modal-submit">Join the Insider Tide</button>
+        <p class="modal-fineprint">We guard your inbox. No spam, ever.</p>
+      </form>
+    </div>
+
+    <div class="modal-step" data-step="1" hidden aria-live="polite">
+      <p class="eyebrow">You are in</p>
+      <h2 class="modal-title" id="reveal-greeting">Your vote is recorded.</h2>
+      <p class="modal-sub" id="reveal-sub">We will email you the winner and the next poll. Welcome to the Insider Tide.</p>
+      <div class="reveal-actions">
+        <a class="secondary-cta full" href="#deck" data-close-modal>See the deck →</a>
+      </div>
+      <p class="modal-fineprint">Early access and members-only pricing are yours when the deck launches.</p>
+    </div>
+  </div>
+  <div class="modal-scrim" data-close-modal></div>
+</div>
+
+<script src="funnel.js"></script>
+</body>
+</html>
