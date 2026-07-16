@@ -262,13 +262,6 @@ She touches a third card - one of the fifty-two this time - and turns it. A key 
 - The Message and Calypso cards carry no point value; they are not part of the count. The Key still counts its +2. The bottle is a ritual layered over the reading, not a replacement for it.
 - It is rare. Three cards must meet. That rarity is the point - the bottle is not a vending machine. It answers when the sea decides you have earned the hearing.
 
-### If two of the three appear
-- **Message + Calypso (no Key):** a message is forming, but the way to it is still locked. Wait. Ask again later.
-- **Message + Key (no Calypso):** an answer is reachable, but it is not yet yours to open.
-- **Calypso + Key (no Message):** the door is open, but you have not written the question. Write one. Cork it. Try again.
-
-Only all three open the bottle.
-
 ### When you are done
 Unroll the old message, read it one last time, and keep it or burn it in the fire. Write a new slip for the next question. The bottle is reusable. The sea does not run out of answers; you will run out of questions first.
 
