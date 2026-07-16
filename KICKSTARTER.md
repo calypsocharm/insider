@@ -138,7 +138,7 @@ This is the campaign's signature mechanic - the thing no other deck has.
 ### The ritual
 1. Write your question or intention on the small parchment. Roll it, cork it in the tiny bottle. Keep the bottle with your deck.
 2. The deck has a bonus **Message card** (depicting the bottle) and a **Calypso card** (the sigil card).
-3. In a reading, if the **Message card appears with the Calypso card**, unroll your bottled message and read it. **That message is your answer.**
+3. In a reading, if the **Message card, the Calypso card, and the Key** all appear in a single spread - in any order - uncork the bottle and read what you wrote. **That is your answer.**
 4. The Message card alone still means "a message is coming / the written word" - a real Lenormand card, not a gimmick. The bottle combination is the special payoff.
 5. Re-writable: finish a question, write a new slip, re-cork it. The bottle is reusable across readings.
 
@@ -153,7 +153,7 @@ This is the campaign's signature mechanic - the thing no other deck has.
 - Also available as a **$6 add-on** for a second bottle or for latecomers.
 
 ### Campaign line
-> "Every card in this deck is a message from the deep. At our stretch goal, every deck comes with its own message in a bottle - write your question, cork it, keep it with your cards. When the Message card meets Calypso, open the bottle. Your own words are the answer."
+> "Every card in this deck is a message from the deep. At our stretch goal, every deck comes with its own message in a bottle - write your question, cork it, keep it with your cards. When Message meets Calypso and the Key, the bottle opens. Your own words are the answer."
 
 ### Bonus/promo card pair (for the art list)
 - **The Calypso card** - the sigil/brand card, foiled. The partner card.

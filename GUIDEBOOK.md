@@ -233,3 +233,45 @@ The woman smiles, but there is something sorrowful in it.
 “No,” she says. “You were supposed to drown.”
 
 Behind her, above the silent sea, a single unfamiliar star begins to burn.
+
+---
+
+## Interlude - The Bottle
+
+*(At the fire, before the voyage. Calypso gives you the bottle.)*
+
+Calypso reaches into the dark beside the fire and sets something between you. A bottle, no longer than your finger. A slip of parchment, cream as old bone. A card, face-down.
+
+"You will want to ask the sea a question," she says. "Everyone does. Most ask too soon."
+
+She turns the first card. A bottle adrift on dark water, a rolled page glowing inside it. Beneath it, in gold: **THE MESSAGE**.
+
+"This is the Message card. It is not one of the fifty-two. It does not belong to any sea. It belongs to you."
+
+She lays a second card beside it. The compass back, then the face: the Calypso Star sigil, turning slowly in the dark. **THE CALYPSO**.
+
+"And this is me. I go where the deck goes."
+
+She touches a third card - one of the fifty-two this time - and turns it. A key on the seabed, light falling across it. **THE KEY. +2.**
+
+"The three together," she says. "Message. Calypso. Key. In any order. That is the only time the bottle opens."
+
+### The rule, plainly
+- Write your question on the parchment. Roll it. Cork it in the bottle. Keep the bottle with your deck.
+- Read as you normally would. If, in a single spread, the **Message** card, the **Calypso** card, and the **Key** all appear - in any order - uncork the bottle and read what you wrote. **That is your answer.**
+- The Message and Calypso cards carry no point value; they are not part of the count. The Key still counts its +2. The bottle is a ritual layered over the reading, not a replacement for it.
+- It is rare. Three cards must meet. That rarity is the point - the bottle is not a vending machine. It answers when the sea decides you have earned the hearing.
+
+### If two of the three appear
+- **Message + Calypso (no Key):** a message is forming, but the way to it is still locked. Wait. Ask again later.
+- **Message + Key (no Calypso):** an answer is reachable, but it is not yet yours to open.
+- **Calypso + Key (no Message):** the door is open, but you have not written the question. Write one. Cork it. Try again.
+
+Only all three open the bottle.
+
+### When you are done
+Unroll the old message, read it one last time, and keep it or burn it in the fire. Write a new slip for the next question. The bottle is reusable. The sea does not run out of answers; you will run out of questions first.
+
+Calypso presses the bottle into your palm. It is colder than it should be.
+
+"Sail when you are ready," she says. "The cards know the way. The bottle knows why."
