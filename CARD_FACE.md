@@ -46,7 +46,7 @@ All three layers on one face: poker (J♥ index), Lenormand (THE HEART), god (TH
 - J♦  THE SCYTHE     -> The Lantern-Hermit (-2)
 - Q♦  THE CROSSROADS -> The Reef Mother  (0)
 - K♦  THE FISH       -> The Lighthouse   (+1)
-- J♣  THE WHIP       -> The Rising       (-1)
+- J♣  THE WHIP       -> Ares             (-1)
 - Q♣  THE SNAKE      -> The Oracle       (-2)
 - K♣  THE CLOUDS     -> The Open Sea     (-1)
 
