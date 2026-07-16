@@ -95,3 +95,36 @@ Pledge now, charged only if the campaign funds. Shipping calculated at checkout.
 ## ABOUT
 
 Calypso Star is a dark-fantasy oceanic card world channeled by Calypso. This is the third deck in the world — the oracle, the Tarot of the Sea, and now the 52-Card Lenormand & the Gods. One world, one palette, one voice. The deck reads because the sea is in it.
+
+---
+
+## SCENARIO - 120 backers (small first campaign)
+
+### Tier mix + revenue
+| Tier | Backers | Pledge | Subtotal |
+|------|--------:|-------:|---------:|
+| Follow $1 | 8 | $1 | $8 |
+| Digital $12 | 10 | $12 | $120 |
+| Deck $35 | 62 | $35 | $2,170 |
+| Deck + Book $55 | 25 | $55 | $1,375 |
+| Keeper $89 | 10 | $89 | $890 |
+| Collector $150 | 4 | $150 | $600 |
+| Retailer $300 | 1 | $300 | $300 |
+| **Total** | **120** | | **$5,463** |
+| Add-ons (promo cards, extra decks, ~80 buyers) | | | ~$400 |
+| **Gross** | | | **~$5,860** |
+
+Average pledge ~$49. Decks to ship: ~107 (+ add-on extras). Printer MOQ ~500, so you print 500, ship ~110, hold ~390 as inventory to sell after the campaign (where the real profit is).
+
+### Funding goal (all-or-nothing, set at the floor)
+**Goal: $5,000** - covers the 500-deck first run (~$2,600 landed), guidebooks + pouches + prints (~$300), Kickstarter + payment fees (~$440), and a buffer for art completion. 120 backers (~$5,860) clears it with margin.
+
+### Stretch goals (right-sized to a 120-backer campaign - not the $40k/$100k plan)
+- **$6,000** - Foiled promo card added to every Deck tier and above.
+- **$7,500** - Upgraded magnetic tuck box for every deck.
+- **$9,000** - Softcover guidebook added free to the Deck tier.
+- **$12,000** - Foiled borders on every deck.
+- **$16,000** (moonshot) - Gilt edges on every deck.
+
+### Honest margin picture
+At 120 backers you fund the run and deliver, but profit is thin - most of the value is the ~390 leftover decks (inventory to sell at full retail post-campaign) and the Insider list you have built. A 120-backer first campaign is a success if it funds the print run and proves demand; the money comes later, from the inventory and the next deck. Do not expect to get rich at 120 - expect to break even on the run and own 390 decks plus a warm list.
