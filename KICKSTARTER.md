@@ -128,3 +128,39 @@ Average pledge ~$49. Decks to ship: ~107 (+ add-on extras). Printer MOQ ~500, so
 
 ### Honest margin picture
 At 120 backers you fund the run and deliver, but profit is thin - most of the value is the ~390 leftover decks (inventory to sell at full retail post-campaign) and the Insider list you have built. A 120-backer first campaign is a success if it funds the print run and proves demand; the money comes later, from the inventory and the next deck. Do not expect to get rich at 120 - expect to break even on the run and own 390 decks plus a warm list.
+
+---
+
+## THE HOOK - Message in a Bottle (signature ritual + stretch goal)
+
+This is the campaign's signature mechanic - the thing no other deck has.
+
+### The ritual
+1. Write your question or intention on the small parchment. Roll it, cork it in the tiny bottle. Keep the bottle with your deck.
+2. The deck has a bonus **Message card** (depicting the bottle) and a **Calypso card** (the sigil card).
+3. In a reading, if the **Message card appears with the Calypso card**, unroll your bottled message and read it. **That message is your answer.**
+4. The Message card alone still means "a message is coming / the written word" - a real Lenormand card, not a gimmick. The bottle combination is the special payoff.
+5. Re-writable: finish a question, write a new slip, re-cork it. The bottle is reusable across readings.
+
+### The components
+- A tiny corked vial (plastic glass-look, so it does not break in transit).
+- 2-3 pre-cut parchment slips (cream/linen, ~2x3 in).
+- The **Message card** - a 53rd bonus card printed on the deck sheet (deck stays a clean 52 for poker/Lenormand; this is a labeled bonus).
+- The **Calypso card** - the foiled sigil promo card, the partner that activates the bottle.
+
+### Stretch goal
+- **Unlock at $8,000:** every deck ships with a Message in a Bottle (vial + slips + Message card). Cost ~$0.75-1.25/unit - trivial to fund, feels like a gift.
+- Also available as a **$6 add-on** for a second bottle or for latecomers.
+
+### Campaign line
+> "Every card in this deck is a message from the deep. At our stretch goal, every deck comes with its own message in a bottle - write your question, cork it, keep it with your cards. When the Message card meets Calypso, open the bottle. Your own words are the answer."
+
+### Bonus/promo card pair (for the art list)
+- **The Calypso card** - the sigil/brand card, foiled. The partner card.
+- **The Message card** - the bottle/message card, the trigger. Optionally foiled too.
+Both are bonus cards outside the 52, so the poker + Lenormand system stays pure and these two carry the ritual.
+
+### Production notes
+- Use plastic glass-look corked vials - real glass breaks in transit and against the cards.
+- Parchment slips pre-cut, a few per bottle, unruled, cream color.
+- Pack the vial in a small sleeve separate from the card stack (do not ship loose inside the tuck box).
