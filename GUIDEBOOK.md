@@ -1,7 +1,7 @@
-﻿# Calypso Star â€” Guidebook structure
+﻿# Calypso Star — Guidebook structure
 
 Revised book structure
-Part I â€” The Island of Calypso
+Part I — The Island of Calypso
 Chapter 1: The Shore Without a Name
 
 The traveler wakes after the wreck.
@@ -43,7 +43,7 @@ But the story says more: reaching it will require surviving the same force that 
 
 This becomes the first complete sample reading in the book.
 
-Part II â€” The Sea of Hearts
+Part II — The Sea of Hearts
 
 The traveler sails through waters formed from memories.
 
@@ -54,14 +54,14 @@ The traveler finds a promise carved into the mast.
 The Sirens sing in voices belonging to people the traveler misses.
 A floating hearth offers perfect comfort but prevents anyone from leaving.
 The Moon reveals that memory and truth are not always identical.
-The House appears on an island that resembles homeâ€”but something is wrong.
+The House appears on an island that resembles home—but something is wrong.
 Suit lesson
 
 Hearts are not automatically positive.
 
 Love may guide, trap, restore, distort, or call someone home.
 
-Part III â€” The Sea of Spades
+Part III — The Sea of Spades
 
 This sea is dark, still, and filled with hidden routes.
 
@@ -71,14 +71,14 @@ Story events
 The Oracle gives an answer that makes no sense.
 The Thread appears across the surface of the water.
 The traveler enters the Labyrinth beneath a ruined island.
-A sealed Letter reveals part of the travelerâ€™s forgotten past.
+A sealed Letter reveals part of the traveler’s forgotten past.
 The Tower belongs to a god who records every choice never made.
 The Anchor must be lifted, even though it once kept the traveler safe.
 Suit lesson
 
 Spades reveal the truth that comfort would rather hide.
 
-Part IV â€” The Sea of Diamonds
+Part IV — The Sea of Diamonds
 
 This sea glitters with islands made of gold, glass, and reflected sunlight.
 
@@ -98,7 +98,7 @@ Value is not the same as price.
 
 Victory is not always possession.
 
-Part V â€” The Sea of Clubs
+Part V — The Sea of Clubs
 
 This is the roughest sea: physical, immediate, and full of trials.
 
@@ -109,7 +109,7 @@ The Oar only moves when the traveler chooses a direction.
 The Olive Branch must be offered to an enemy.
 The Bow cannot be fired while the traveler doubts the target.
 The Cyclops guards the passage while seeing only one version of truth.
-The Mice quietly eat through the shipâ€™s ropes.
+The Mice quietly eat through the ship’s ropes.
 The Mountain rises from the sea.
 The Fox offers a shortcut.
 The Bear offers protection at the price of obedience.
@@ -118,9 +118,9 @@ Suit lesson
 
 Power without direction becomes destruction.
 
-Endurance is knowing what to carryâ€”and what to put down.
+Endurance is knowing what to carry—and what to put down.
 
-Part VI â€” The Court of the Gods
+Part VI — The Court of the Gods
 
 The gods gather once the traveler has crossed all four seas.
 
@@ -144,7 +144,7 @@ Calypso does not defend the traveler.
 
 She asks them to perform one final reading.
 
-Part VII â€” The Final Spread
+Part VII — The Final Spread
 
 The final spread is called:
 
@@ -164,7 +164,7 @@ Who arrives there
 
 The reader performs this spread alongside the traveler.
 
-The bookâ€™s ending changes symbolically depending on the total:
+The book’s ending changes symbolically depending on the total:
 
 Strong positive: the way home opens
 Mild positive: the voyage continues with guidance
@@ -172,7 +172,7 @@ Zero: home must be redefined
 Mild negative: return is possible only after another lesson
 Strong negative: the old home is no longer the destination
 Opening page draft
-Chapter One â€” The Shore Without a Name
+Chapter One — The Shore Without a Name
 
 The first thing you remember is the sound of cards being shuffled.
 
@@ -222,15 +222,15 @@ She wears no crown, though the night seems arranged around her as if she does. H
 
 She looks at you, then at the card in your hand.
 
-â€œYou kept that one,â€ she says.
+“You kept that one,â€ she says.
 
 Your throat aches when you answer.
 
-â€œWas I supposed to?â€
+“Was I supposed to?â€
 
 The woman smiles, but there is something sorrowful in it.
 
-â€œNo,â€ she says. â€œYou were supposed to drown.â€
+“No,â€ she says. “You were supposed to drown.â€
 
 Behind her, above the silent sea, a single unfamiliar star begins to burn.
 
