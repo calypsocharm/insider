@@ -222,15 +222,15 @@ She wears no crown, though the night seems arranged around her as if she does. H
 
 She looks at you, then at the card in your hand.
 
-“You kept that one,â€ she says.
+“You kept that one,” she says.
 
 Your throat aches when you answer.
 
-“Was I supposed to?â€
+“Was I supposed to?”
 
 The woman smiles, but there is something sorrowful in it.
 
-“No,â€ she says. “You were supposed to drown.â€
+“No,” she says. “You were supposed to drown.”
 
 Behind her, above the silent sea, a single unfamiliar star begins to burn.
 
